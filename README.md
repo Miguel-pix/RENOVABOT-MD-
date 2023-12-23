@@ -46,7 +46,7 @@
 👇 Pasos para instalar el bot via termux 👇
 
 [![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/OhbJjp0L2QA?si=LUTw6tIkQmP7XOhp)
+]( https://youtu.be/7zcY7z5P_vY?si=soNWoW4hg7LhHXGL )
 
 [`💫 Instalar termux clic aqui`](https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file)
 
