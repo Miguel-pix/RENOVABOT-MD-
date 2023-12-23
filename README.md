@@ -38,7 +38,7 @@
 [![blog](https://img.shields.io/badge/Replit-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
 
-[![Run on Repl.it]( https://github.com/Miguel-pix/RENOVABOT-MD-?tab=readme-ov-file )]( https://github.com/Miguel-pix/RENOVABOT-MD-?tab=readme-ov-file ) 
+[![Run on Repl.it]( https://github.com/elrebelde21/NovaBot-MD )]( https://github.com/Miguel-pix/RENOVABOT-MD-?tab=readme-ov-file ) 
 
 ------------------ 
 
